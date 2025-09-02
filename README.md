@@ -1,4 +1,4 @@
-        ![Espectograma Cuphead](https://github.com/LuisEmilioo/Proyecto_ML/blob/main/SPCTGRMA.jpg?raw=true)
+        ![Espectrograma Cuphead](https://github.com/LuisEmilioo/Proyecto_ML/blob/main/SPCTGRMA.jpg?raw=true)
 # 🎶 Clasificación de Sonidos con Espectrogramas
 
 Este proyecto utiliza técnicas de Machine Learning y Deep Learning para la clasificación de sonidos a partir del dataset [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html).  
